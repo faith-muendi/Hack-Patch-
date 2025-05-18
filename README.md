@@ -55,4 +55,3 @@ This lab simulates a hands-on web application pentesting environment, where I id
 
 ---
 
-> ⚠️ **Note**: This lab is created for educational purposes. All tests were performed on intentionally vulnerable applications in a controlled environment.
